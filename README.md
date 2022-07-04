@@ -28,7 +28,7 @@ Users should be able to:
 
 
 - Solution URL: [https://github.com/viotel81/Stats-Preview-Card.git]
-- Live Site URL: [https://viotel81.github.io/Stats-Preview-Card.git]
+- Live Site URL: [https://viotel81.github.io/Stats-Preview-Card/]
 
 ## My process
 
